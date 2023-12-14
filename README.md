@@ -4,7 +4,7 @@ Hangman Game is a classic word guessing game where players attempt to guess a wo
 
 ## Live Demo
 
-Try out the Hangman Game live! Visit [Hangman Game Demo](https://1heykal.github.io/Hangman-Game/)).
+Try out the Hangman Game live! Visit [Hangman Game Demo](https://1heykal.github.io/Hangman-Game/).
 
 ## Features
 
