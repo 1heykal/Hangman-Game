@@ -2,6 +2,10 @@
 
 Hangman Game is a classic word guessing game where players attempt to guess a word letter by letter within a certain number of attempts.
 
+## Live Demo
+
+Try out the Hangman Game live! Visit [Hangman Game Demo](https://1heykal.github.io/Hangman-Game/)).
+
 ## Features
 
 - Simple and interactive Hangman game.
